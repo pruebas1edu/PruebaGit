@@ -1,2 +1,2 @@
-# PruebaGit
+# pruebagit
 practica3
